@@ -1,6 +1,6 @@
 # Clustering-World-Development-Measurement-
 
-# Clustering World Development Measurement involves using data science techniques to group countries based on various socio-economic indicators. This project aims to identify patterns and similarities among countries by analyzing their development metrics, such as GDP, literacy rates, life expectancy, health care access, education levels, and more.
+Clustering World Development Measurement involves using data science techniques to group countries based on various socio-economic indicators. This project aims to identify patterns and similarities among countries by analyzing their development metrics, such as GDP, literacy rates, life expectancy, health care access, education levels, and more.
 
 # Data Collection:
 The project begins by gathering data from global organizations like the World Bank, United Nations, or other relevant sources. The dataset typically includes various indicators that measure different aspects of a country's development.
